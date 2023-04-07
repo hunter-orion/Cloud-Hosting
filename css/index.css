@@ -641,6 +641,7 @@ right: 5%;
 
 .block__heading {
     margin-top: 0;
+    margin-bottom: 4rem;
 }
 
 .block--dark {
